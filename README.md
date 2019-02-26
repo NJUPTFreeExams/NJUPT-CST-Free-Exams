@@ -37,10 +37,13 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 3. 上传文件到新文件夹：打开任意文件夹，点击绿色Download按钮旁的upload, 把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车，上传你的文件。
 
 ## 资料列表
+
+**注意**：通识类课程资源已经转移到 [`NJUPT_General_Free_Exams` 项目](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams)下，欢迎查看！
+
 ### 数理基础类
-1. 高等数学（上）@大一上
+1. 高等数学A（上）@大一上
 2. [线性代数与解析几何](https://github.com/NJUPTFreeExams/NJUPT_CS_Free_Exams/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95) ✅ @大一上 (Last updated: 2018-02-17)
-3. [高等数学（下）](https://github.com/NJUPTFreeExams/NJUPT_CS_Free_Exams/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%EF%BC%88%E4%B8%8B%EF%BC%89) ✅ @大一下 (Last updated: 2018-02-17)
+3. [高等数学A（下）](https://github.com/NJUPTFreeExams/NJUPT_CS_Free_Exams/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%EF%BC%88%E4%B8%8B%EF%BC%89) ✅ @大一下 (Last updated: 2018-02-17)
 4. [物理实验（上)](https://github.com/NJUPTFreeExams/NJUPT_CS_Free_Exams/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%EF%BC%88%E4%B8%8A%EF%BC%89) ✅ @大一下 (Last updated: 2018-02-17)
 5. [大学物理（上）](https://github.com/NJUPTFreeExams/NJUPT_CS_Free_Exams/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88%E4%B8%8A%EF%BC%89) ✅ @大一下 (Last updated: 2018-02-17)
 6. [大学物理（下）](https://github.com/NJUPTFreeExams/NJUPT_CS_Free_Exams/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88%E4%B8%8B%EF%BC%89) ✅ @大二上 (Last updated: 2018-02-17)
