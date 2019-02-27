@@ -6,7 +6,7 @@
 
 南京邮电大学计算机科学与技术专业历年考试资料。
 
-受友校启发，我们决定将**南京邮电大学**CS专业课程的历年资料整理出来，以利后人。有些项目对本资料集有重要影响，我们已将其Star, 欢迎查看。同时向他们表示感谢。
+受 [`浙江大学课程攻略共享计划`](https://github.com/QSCTech/zju-icicles) 和 [`清华大学计算机系课程攻略`](https://github.com/Trinkle23897/THU-CST-Cracker) 等项目启发，我们决定将**南京邮电大学**CS专业课程的历年资料整理出来，以利后人。上述两项目对本资料集有重要影响，在这里向他们表示感谢。
 
 ## 说明
 1. **本repo下资料仅供个人学习交流使用，请在下载后24小时内删除。如有侵权，请及时与我们联系。**
@@ -38,7 +38,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ## 资料列表
 
-**注意**：通识类课程资源已经转移到 [`NJUPT_General_Free_Exams` 项目](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams)下，欢迎查看！
+**注意**：通识类课程资源已经转移到 [`NJUPT_General_Free_Exams`](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams) 项目下，欢迎查看！
 
 ### 数理基础类
 1. 高等数学A（上）@大一上
