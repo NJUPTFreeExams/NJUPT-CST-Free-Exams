@@ -9,7 +9,7 @@
 受 [`浙江大学课程攻略共享计划`](https://github.com/QSCTech/zju-icicles) 和 [`清华大学计算机系课程攻略`](https://github.com/Trinkle23897/THU-CST-Cracker) 等项目启发，我们决定将**南京邮电大学**CS专业课程的历年资料整理出来，以利后人。上述两项目对本资料集有重要影响，在这里向他们表示感谢。
 
 ## 说明
-1. **本repo下资料仅供个人学习交流使用，请在下载后24小时内删除。如有侵权，请及时与我们联系。**
+1. **本repo下资料仅供个人学习交流使用，严禁用作商业用途，请在下载后24小时内删除。如有侵权，请及时与我们联系。**
 2. 资料仅供参考，请自己判断适用性。
 3. 部分资料已经有些年头，如果大家手头有更好的资料，敬请PR。 
 4. 如果大家发现资料中的问题，请不要犹豫，直接提出issue, 我们会尽快修改。
@@ -91,3 +91,11 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 2. [技术经济学](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E6%8A%80%E6%9C%AF%E7%BB%8F%E6%B5%8E%E5%AD%A6) ✅ @大三上 (Last updated: 2018-02-17)
 3. [通信原理C](https://github.com/NJUPTFreeExams/NJUPT_CS_Free_Exams/tree/master/%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86C) ✅ @大三上 (Last updated: 2018-02-17)
 4. [市场营销](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80) ✅ @大三下 (Last updated: 2018-02-12)
+
+## 贡献者名单
+<a href="https://github.com/imguozr">
+​    <img src="https://avatars1.githubusercontent.com/u/30227124?v=4" width="50px">
+</a> 
+<a href="https://github.com/Wonz5130">
+​    <img src="https://avatars1.githubusercontent.com/u/35889526?v=4" width="50px">
+</a> 
