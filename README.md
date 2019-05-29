@@ -1,9 +1,9 @@
 # NJUPT-CS-Free-Exams
 
-[![](https://img.shields.io/github/stars/NJUPTFreeExams/NJUPT-CS-Free-Exams.svg?style=for-the-badge)](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/stargazers)
-[![](https://img.shields.io/github/forks/NJUPTFreeExams/NJUPT-CS-Free-Exams.svg?style=for-the-badge)](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/network/members)
-[![](https://img.shields.io/github/issues-pr-closed-raw/NJUPTFreeExams/NJUPT-CS-Free-Exams.svg?style=for-the-badge)](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/pulls)
-![](https://img.shields.io/github/repo-size/NJUPTFreeExams/NJUPT-CS-Free-Exams.svg?style=for-the-badge)
+[![Stargazers](https://img.shields.io/github/stars/NJUPTFreeExams/NJUPT-CS-Free-Exams.svg?style=for-the-badge)](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/stargazers)
+[![Forks](https://img.shields.io/github/forks/NJUPTFreeExams/NJUPT-CS-Free-Exams.svg?style=for-the-badge)](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/network/members)
+[![cloed prs](https://img.shields.io/github/issues-pr-closed-raw/NJUPTFreeExams/NJUPT-CS-Free-Exams.svg?style=for-the-badge)](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/pulls)
+![repo size](https://img.shields.io/github/repo-size/NJUPTFreeExams/NJUPT-CS-Free-Exams.svg?style=for-the-badge)
 
 南京邮电大学计算机科学与技术专业历年考试资料。
 
@@ -76,7 +76,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 1. [数据结构](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84) ✅ @大二上 (Last updated: 2018-02-17)
 2. [算法分析与设计](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1) ✅ @大二下 (Last updated: 2018-02-17)
-3. 计算机组成与结构 @大二下
+3. [计算机组成与结构](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E7%BB%93%E6%9E%84) @大二下 (Last updated: 2019-05-29)
 4. [操作系统A](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FA) ✅ @大三上 (Last updated: 2018-02-17)
 5. [微型计算机接口技术](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E5%BE%AE%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF) ✅ @大三上 (Last updated: 2018-02-17)
 6. [计算机图形学（全英文）](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%EF%BC%88%E5%85%A8%E8%8B%B1%E6%96%87%EF%BC%89) ✅ @大三上 (Last updated: 2018-02-17)
@@ -90,7 +90,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 1. 云计算 @大三上
 2. [嵌入式系统与开发](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BC%80%E5%8F%91) ✅ @大三下 (Last updated: 2018-02-12)
 3. [大型数据库技术](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E5%A4%A7%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF) ✅ @大三下 (Last updated: 2018-02-12)
-4. Web技术（双语） @大三下
+4. [Web技术（双语）](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/Web%E6%8A%80%E6%9C%AF(%E5%8F%8C%E8%AF%AD)) @大三下 (Last updated: 2019-05-27)
 5. 计算机通信与网络实验 @大四上
 6. [TCP/IP网络设计与实现（双语）](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/TCP:IP%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%EF%BC%88%E5%8F%8C%E8%AF%AD%EF%BC%89) ✅ @大四上 (Last updated: 2018-02-12)
 
@@ -104,8 +104,13 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 ## 贡献者名单
 
 <a href="https://github.com/imguozr">
-​    <img src="https://avatars1.githubusercontent.com/u/30227124?v=4" width="50px">
+    <img src="https://avatars1.githubusercontent.com/u/30227124?v=4" width="50px">
 </a> 
+
 <a href="https://github.com/Wonz5130">
-​    <img src="https://avatars1.githubusercontent.com/u/35889526?v=4" width="50px">
+    <img src="https://avatars1.githubusercontent.com/u/35889526?v=4" width="50px">
 </a> 
+
+<a hred="https://github.com/chenkangyang">
+    <img src="https://avatars2.githubusercontent.com/u/28588778?v=4" width="50px">
+</a>
