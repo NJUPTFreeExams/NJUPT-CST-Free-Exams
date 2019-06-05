@@ -81,7 +81,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 5. [微型计算机接口技术](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E5%BE%AE%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF) ✅ @大三上 (Last updated: 2018-02-17)
 6. [计算机图形学（全英文）](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%EF%BC%88%E5%85%A8%E8%8B%B1%E6%96%87%EF%BC%89) ✅ @大三上 (Last updated: 2018-02-17)
 7. [数据库系统](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F) ✅ @大三下 (Last updated: 2018-02-12)
-8. [计算机通信与网络](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%9A%E4%BF%A1%E4%B8%8E%E7%BD%91%E7%BB%9C) ✅ @大三下 (Last updated: 2018-02-12)
+8. [计算机通信与网络](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%9A%E4%BF%A1%E4%B8%8E%E7%BD%91%E7%BB%9C) ✅ @大三下 (Last updated: 2018-06-05)
 9. [编译原理](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86) ✅ @大三下 (Last updated: 2018-02-12)
 10. [软件工程（双语）](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%EF%BC%88%E5%8F%8C%E8%AF%AD%EF%BC%89) ✅ @大三下 (Last updated: 2018-02-17)
 
