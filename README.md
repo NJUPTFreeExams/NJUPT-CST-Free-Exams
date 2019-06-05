@@ -13,7 +13,7 @@
 
 1. **本repo下资料仅供个人学习交流使用，严禁用作商业用途，请在下载后24小时内删除。如有侵权，请及时与我们联系。**
 2. 资料仅供参考，请自己判断适用性。
-3. 部分资料已经有些年头，如果大家手头有更好的资料，敬请PR。 
+3. 部分资料已经有些年头，如果大家手头有更好的资料，敬请PR。
 4. 如果大家发现资料中的问题，请不要犹豫，直接提出issue, 我们会尽快修改。
 5. 在PR时，建议上传pdf文件。推荐使用 Adobe Acrobat 进行doc/docx文件的转换。
 6. 请**不要**上传课程实验代码，我们认为这些需要同学们自己进行摸索。
@@ -105,12 +105,16 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 <a href="https://github.com/imguozr">
     <img src="https://avatars1.githubusercontent.com/u/30227124?v=4" width="50px">
-</a> 
+</a>
 
 <a href="https://github.com/Wonz5130">
     <img src="https://avatars1.githubusercontent.com/u/35889526?v=4" width="50px">
-</a> 
+</a>
 
 <a hred="https://github.com/chenkangyang">
     <img src="https://avatars2.githubusercontent.com/u/28588778?v=4" width="50px">
+</a>
+
+<a hred="https://github.com/Davont">
+    <img src="https://avatars0.githubusercontent.com/u/28757633?v=4" width="50px">
 </a>
