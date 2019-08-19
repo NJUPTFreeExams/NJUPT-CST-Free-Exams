@@ -111,10 +111,14 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
     <img src="https://avatars1.githubusercontent.com/u/35889526?v=4" width="50px">
 </a>
 
-<a hred="https://github.com/chenkangyang">
+<a href="https://github.com/Wen-He">
+    <img src="https://avatars0.githubusercontent.com/u/18651139?v=4" width="50px">
+</a>
+
+<a href="https://github.com/chenkangyang">
     <img src="https://avatars2.githubusercontent.com/u/28588778?v=4" width="50px">
 </a>
 
-<a hred="https://github.com/Davont">
+<a href="https://github.com/Davont">
     <img src="https://avatars0.githubusercontent.com/u/28757633?v=4" width="50px">
 </a>
