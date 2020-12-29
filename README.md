@@ -124,3 +124,15 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 <a href="https://github.com/pikanglong">
     <img src="https://avatars0.githubusercontent.com/u/26516046?v=4" width="50px">
 </a>
+
+<a href="https://github.com/Davont">
+    <img src="https://avatars0.githubusercontent.com/u/28757633?v=4" width="50px">
+</a>
+
+<a href="https://github.com/ThisIsReed">
+    <img src="https://avatars1.githubusercontent.com/u/40027206?v=4" width="50px">
+</a>
+
+<a href="https://github.com/Programer-YYDS">
+    <img src="https://avatars3.githubusercontent.com/u/54492139?v=4" width="50px">
+</a>
