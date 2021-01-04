@@ -56,7 +56,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 1. [计算机科学与技术导论](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AF%BC%E8%AE%BA) ✅ @大一上 (Last updated: 2018-02-17)
 2. [电路分析基础C](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams/tree/master/%E7%94%B5%E8%B7%AF%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80C) ✅ @大一下 (Last updated: 2018-02-12)
-3. [离散数学](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6) ✅ @大二上 (Last updated: 2019-09-24)
+3. [离散数学](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6) ✅ @大二上 (Last updated: 2021-01-04)
 4. 模拟电子电路C @大二上
 5. [信号与系统C](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams/tree/master/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9FC) ✅ @大二上 (Last updated: 2018-02-17)
 6. [数字电路与逻辑设计B](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams/tree/master/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E4%B8%8E%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1B) ✅ @大二下 (Last updated: 2018-02-17)
