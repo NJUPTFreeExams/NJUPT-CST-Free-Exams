@@ -1,6 +1,6 @@
 # 英语III词汇
 
-此文档是markdown格式,请使用支持 markdown语法的编辑器打开! 如果不想请参照:[Github地址](faf)
+此文档是markdown格式,请使用支持 markdown语法的编辑器打开! 如果不想请参照:[Github地址](https://github.com/Programer-YYDS/NJUPT-CS-Free-Exams/blob/master/English/%E8%8B%B1%E8%AF%ADIII%E8%AF%8D%E6%B1%87.md)
 
 ## 考试内容
 
