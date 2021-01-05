@@ -123,4 +123,46 @@
 - look back on : 回顾
 
 ## 第四单元(**Creativity**)
+# 作文部分
+
+## 创造力:
+
+**Why student should be encouraged to develop creativity**
+
+The pace of change in the world is accelerating rapidly and it will continue to change with the development of new technologies. This means that the way we live and work in the past might no longer be appropriate in the coming future. In order to succeed, a powerful way to empower ourselves is to develop creativity.
+
+First, being creative helps us become a better problem solver in all areas of our life and work. When trying to find the solution to a problem, thinking creatively allows us to look at the situation from different angles, which opens up the possibilities. Second, being creative helps us better deal with uncertainty. In a constantly changing world, nobody can fully predict what the future holds. New challenges pop up every day, and the old ways of doing things are probably useless. Being creative is how we get unique ideas and how innovators set themselves apart. Thirdly, being creative helps us develop confidence. Being creative comes with many ups and downs and a high risk of failure. Engaging in the creative process is a great confidence builder, because you discover that failure is part of the process.
+
+In conclusion, creativity is no longer just seen as what artists and musicians possess. It’s a crucial skill for professionals in all fields. It is high time that we took actions to develop creativity. Only in this way can we be successful in this constantly changing world.
+
+## 安全:
+
+As is stated in the report many accidents happened in our daily life including the traffic drowning stampeding and so on which caused many disasters. Consequently giving personal safety lessons may stop the similar disasters.
+
+There is no denying the fact that more and more accidents took place around us making our personal safety under thread. Therefore personal safety should be the priority to the students.
+
+Having read the report about accidents happened in China I instantly think of the accident which occurred to me ten years ago. Like other naughty boys I like doing sports especially swimming. It happened to be a summer hot noon. I went out to swim with my neighbor without parents’ permission. Happy as we were we even tried having a competition to see who could swim the fastest and farthest. In order to show my ability of swimming I spared no effort to swim. Not until the middle of the river did I realize that I have no other strength left and my body was sinking into the deep of the water. Fortunately with the help of my friends I had a narrow escape. What an unforgettable experience! It is my showing off that causes the unnecessary accident.
+
+This case is only one among several hundreds terrible accidents that take place around us every day. It is high time that we be aware of the importance of personal safety. And only with a good sense of personal safety can we live a safe and happy life!
+
+## 梦想与现实:
+
+When we are children, there are lots of people ask about our dreams, and our answers most are doctors, policemen, teachers etc. But when we grow up, we have to face the reality, not everyone would realize childhood dreams, and some of these dreams even are unrealistic which will never be able to achieve. Therefore, we need correctly treat the relationship between dream and reality.
+
+在我们小时候，会有很多人问我们的梦想是什么，医生，警察，老师等很多职业都是我们口中的梦想。但是当我们长大后，都必须面对现实，并不是每个人都能实现小时候的梦想。有些梦想都不切实际，并永远无法实现，所以我们应该正确看待梦想和现实的关系。
+
+First of all, dream is the spiritual power to encourage people progress. Napoleon once said: “He is a bad soldier who doesn't dream of becoming a general”. In the process of growing up, we must want to give up our purpose when encounter difficulties, and at the moment, dreams would be the power for us to insist on.
+
+首先，梦想是鼓励人进步的精神动力。拿破仑曾说过，不想当将军的士兵不是好士兵。在成长的过程中，我们一定会遇到因为困难而放弃目标的情况，但是这时梦想就是我们坚持的动力。
+
+Second, reality is a reflection of the real environment. Many people think dream is heaven, and reality is hell, but in my opinion, reality is a double-edged sword which makes us keep a sense of crisis. When young people addicted to the unpractical dreams, reality would awaken them which would avoid them make wrong judgment.
+
+其次，现实是真实环境的反射。很多人都认为梦想是天堂，现实是地狱，但无法避免。现实就是面双刃剑，可以让人时刻保持危机感。在年轻人沉迷于梦想的时候敲醒他们，以致他们不会错处错误的判断。
+
+In my opinion, both dream and reality are important, young people can't ignore one of them. The most critical thing in life is using positive attitude to face the constantly changing society, and strive to cultivate interests, which will be easier to succeed.
+
+梦想和现实都很重要，年轻人不能忽略其中一个。但是我认为，人生最关键的是要以积极的心态面对这个不断变化着的社会，努力培养自己的兴趣、这样才比较容易成功。
+
+
+
 
