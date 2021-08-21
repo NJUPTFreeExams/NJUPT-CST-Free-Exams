@@ -66,7 +66,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 1. [高级语言程序设计](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams/tree/master/%E9%AB%98%E7%BA%A7%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) ✅ @大一上 (Last updated: 2018-02-17)
 2. [面向对象程序设计及C++](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8F%8AC%2B%2B) ✅ @大一下 (Last updated: 2018-02-12)
-3. [JAVA程序设计](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/JAVA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) ✅ @大二下 (Last updated: 2018-02-17)
+3. [JAVA程序设计](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/JAVA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) ✅ @大二下 (Last updated: 2021-08-21)
 4. [汇编语言程序设计](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) ✅ @大二下 (Last updated: 2018-02-17)
 5. [Linux编程](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/Linux%E7%BC%96%E7%A8%8B) ✅ @大三上 (Last updated: 2018-02-12)
 
