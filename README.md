@@ -73,7 +73,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 ### 计算机科学专业必修课
 
 1. [数据结构](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84) ✅ @大二上 (Last updated: 2018-02-17)
-2. [算法分析与设计](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1) ✅ @大二下 (Last updated: 2018-02-17)
+2. [算法分析与设计](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1) ✅ @大二下 (Last updated: 2021-08-21)
 3. [计算机组成与结构](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E7%BB%93%E6%9E%84) @大二下 (Last updated: 2019-05-29)
 4. [操作系统A](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FA) ✅ @大三上 (Last updated: 2018-02-17)
 5. [微型计算机接口技术](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E5%BE%AE%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF) ✅ @大三上 (Last updated: 2018-02-17)
