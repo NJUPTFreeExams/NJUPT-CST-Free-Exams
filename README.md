@@ -56,7 +56,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 1. [计算机科学与技术导论](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AF%BC%E8%AE%BA) ✅ @大一上 (Last updated: 2018-02-17)
 2. [电路分析基础C](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams/tree/master/%E7%94%B5%E8%B7%AF%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80C) ✅ @大一下 (Last updated: 2018-02-12)
-3. [离散数学](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6) ✅ @大二上 (Last updated: 2019-09-24)
+3. [离散数学](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6) ✅ @大二上 (Last updated: 2021-08-28)
 4. 模拟电子电路C @大二上
 5. [信号与系统C](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams/tree/master/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9FC) ✅ @大二上 (Last updated: 2018-02-17)
 6. [数字电路与逻辑设计B](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams/tree/master/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E4%B8%8E%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1B) ✅ @大二下 (Last updated: 2018-02-17)
@@ -74,7 +74,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 1. [数据结构](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84) ✅ @大二上 (Last updated: 2018-02-17)
 2. [算法分析与设计](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1) ✅ @大二下 (Last updated: 2021-08-21)
-3. [计算机组成与结构](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E7%BB%93%E6%9E%84) @大二下 (Last updated: 2019-05-29)
+3. [计算机组成与结构](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E7%BB%93%E6%9E%84) @大二下 (Last updated: 2021-08-29)
 4. [操作系统A](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FA) ✅ @大三上 (Last updated: 2018-02-17)
 5. [微型计算机接口技术](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E5%BE%AE%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF) ✅ @大三上 (Last updated: 2018-02-17)
 6. [计算机图形学（全英文）](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%EF%BC%88%E5%85%A8%E8%8B%B1%E6%96%87%EF%BC%89) ✅ @大三上 (Last updated: 2018-02-17)
