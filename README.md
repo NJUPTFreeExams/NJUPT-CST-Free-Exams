@@ -9,6 +9,17 @@
 
 受 [`浙江大学课程攻略共享计划`](https://github.com/QSCTech/zju-icicles) 和 [`清华大学计算机系课程攻略`](https://github.com/Trinkle23897/THU-CST-Cracker) 等项目启发，我们决定将**南京邮电大学**CS专业课程的历年资料整理出来，以利后人。上述两项目对本资料集有重要影响，在这里向他们表示感谢。
 
+## ⚠`Depricated`
+
+### 此 repo 从 `2021-09` 开始不再维护
+所有的资料已迁移至 **[`NJUPT-CS-FREE`](https://github.com/NJUPTFreeExams/NJUPT-CS-FREE)**，我们将在此 repo 下维护 `计软网安院` 所有专业的专业课程。
+
+### 迁移原因
+考虑到计软网安院各专业课程重叠较大，分设专业级 repo 不利于资料整合和维护。
+  
+
+## 📌以下为原 README 内容。
+
 ## 说明
 
 1. **本repo下资料仅供个人学习交流使用，严禁用作商业用途，请在下载后24小时内删除。如有侵权，请及时与我们联系。**
